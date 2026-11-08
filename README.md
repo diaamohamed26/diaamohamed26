@@ -1,10 +1,10 @@
 # Hi 👋 I'm Diaa Mohamed
 
-💻 Full-Stack Web Developer  
-🚀 Specialized in MERN Stack, ASP.NET Core, and Laravel  
+💻 Full-Stack & AI Developer  
+🚀 Specialized in MERN Stack, ASP.NET Core, Laravel, and Python AI  
 📍 Based in Egypt
 
-I build scalable web applications, eCommerce platforms, and modern admin dashboards using clean architecture and production-ready code.
+I build scalable web applications, eCommerce platforms, modern admin dashboards, and AI-powered systems using clean architecture and modern technologies.
 
 ---
 
@@ -13,8 +13,7 @@ I build scalable web applications, eCommerce platforms, and modern admin dashboa
 ### Frontend
 - React.js
 - JavaScript (ES6+)
-- HTML5
-- CSS3
+- HTML5 & CSS3
 - Tailwind CSS
 - Bootstrap
 
@@ -23,16 +22,28 @@ I build scalable web applications, eCommerce platforms, and modern admin dashboa
 - Express.js
 - ASP.NET Core MVC
 - Laravel
-- Python Flask
+- Python
+- FastAPI
+- Flask
+
+### 🤖 AI & Machine Learning
+- Python AI Development
+- OpenAI API Integration
+- LLM Integration
+- AI-Powered Applications
+- Generative AI
+- AI Chatbots & Intelligent Assistants
+- Prompt Engineering
 
 ### Databases
 - MongoDB
 - MySQL
 - SQLite
+- PostgreSQL
 
 ### Tools
-- Git
-- GitHub
+- Git & GitHub
+- Docker
 - Axios
 - Postman
 - REST APIs
@@ -44,75 +55,62 @@ I build scalable web applications, eCommerce platforms, and modern admin dashboa
 
 ## MERN Stack E-Commerce Platform
 
-Full modern fashion eCommerce website inspired by H&M.
+Modern fashion eCommerce website inspired by H&M.
 
-### Features
-- Product listing with **filters, search, sorting, pagination**
-- Product details page
-- Shopping cart system
-- Wishlist functionality
-- Checkout system
-- Order management
+**Features**
+- Product filtering, search, sorting, and pagination
+- Shopping cart and wishlist
+- Checkout and order management
 - Admin dashboard
-- Product variants (size, color, stock)
-- Multiple image uploads
-- Discounts and inventory management
+- Product variants and inventory management
 
-### Tech Stack
-
-React.js  
-Node.js  
-Express.js  
-MongoDB  
-Tailwind CSS  
+**Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
 
 ## ASP.NET Core E-Commerce Website
 
-Full eCommerce platform built using **ASP.NET Core MVC**.
+Full eCommerce platform built using ASP.NET Core MVC.
 
-### Features
-
-- Product catalog
-- Product categories
-- Shopping cart using session
-- Checkout system
+**Features**
+- Product catalog and categories
+- Shopping cart and checkout
 - Order management
 - Admin dashboard
-- Product management (CRUD)
-- MVC architecture
+- Product CRUD operations
 
-### Tech Stack
-
-C#  
-ASP.NET Core MVC  
-Entity Framework Core  
-SQLite / Relational Database  
-Razor Views
+**Tech:** C#, ASP.NET Core MVC, Entity Framework Core, SQLite
 
 ---
 
 ## Laravel Admin Dashboard
 
-Complete admin dashboard built with Laravel.
+Complete admin dashboard with role-based management.
 
-### Features
-
-- Authentication & authorization
+**Features**
+- Authentication and authorization
 - Role-based access control
-- Product management
-- Category management
+- Product and category management
 - Order management
-- Image upload
-- Form validation
+- Image uploads and validation
 
-### Tech Stack
+**Tech:** Laravel, PHP, MySQL, Blade
 
-Laravel  
-PHP  
-MySQL  
-Blade Templates
+---
+
+## 🤖 AI-Powered Applications
+
+Building intelligent applications using Python and modern AI technologies.
+
+**Areas of Development**
+- AI CV Analyzer and Resume Matching
+- AI Chatbots and Virtual Assistants
+- LLM-Powered Applications
+- AI Football Intelligence & Analytics
+- Intelligent Data Analysis and Automation
+- OpenAI API Integration
+
+**Tech:** Python, FastAPI, Flask, OpenAI API, REST APIs
 
 ---
 
@@ -131,3 +129,5 @@ Blade Templates
 ---
 
 ⭐ If you like my projects, feel free to star them!
+
+**Building the future with Full-Stack Development & AI.** 🚀

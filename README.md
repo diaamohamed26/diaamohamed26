@@ -1,133 +1,141 @@
-# Hi 👋 I'm Diaa Mohamed
+# Hi 👋 I'm Diaa Mohamed Abdelazize
 
-💻 Full-Stack & AI Developer  
-🚀 Specialized in MERN Stack, ASP.NET Core, Laravel, and Python AI  
-📍 Based in Egypt
+### 💻 Software Engineer | Full-Stack Developer | AI Solutions Engineer
 
-I build scalable web applications, eCommerce platforms, modern admin dashboards, and AI-powered systems using clean architecture and modern technologies.
+🚀 Building modern web applications, scalable software solutions, and AI-powered systems.
+
+📍 Cairo, Egypt
+
+🌐 **Portfolio:** [View My Portfolio](https://diaamohamed26.github.io/diaa-portfolio_react/)
+
+I am a Software Engineer and Full-Stack Developer passionate about transforming ideas into practical, scalable, and user-friendly digital products.
+
+I specialize in developing modern web applications, eCommerce platforms, RESTful APIs, admin dashboards, and AI-powered applications using modern technologies and clean architecture principles.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technical Skills
 
-### Frontend
+### 🎨 Frontend Development
 - React.js
+- Next.js
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - Tailwind CSS
 - Bootstrap
 
-### Backend
-- Node.js
-- Express.js
+### ⚙️ Backend Development
+- C# & ASP.NET Core
 - ASP.NET Core MVC
-- Laravel
+- Entity Framework Core
+- Node.js & Express.js
+- PHP & Laravel
 - Python
-- FastAPI
-- Flask
+- FastAPI & Flask
 
-### 🤖 AI & Machine Learning
-- Python AI Development
+### 🤖 AI & Generative AI
+- AI Application Development
 - OpenAI API Integration
 - LLM Integration
-- AI-Powered Applications
-- Generative AI
-- AI Chatbots & Intelligent Assistants
+- Generative AI Applications
+- AI Chatbots & Virtual Assistants
 - Prompt Engineering
+- Intelligent Data Analysis
+- AI-Powered Automation
 
-### Databases
+### 🗄️ Databases
+- SQL Server
 - MongoDB
 - MySQL
-- SQLite
 - PostgreSQL
+- SQLite
 
-### Tools
+### 🛠️ Tools & Technologies
 - Git & GitHub
 - Docker
-- Axios
 - Postman
-- REST APIs
+- RESTful APIs
 - JWT Authentication
+- API Integration
+- Clean Architecture
 
 ---
 
-# 🛒 Featured Projects
+## 💼 Featured Projects
 
-## MERN Stack E-Commerce Platform
+### 🛒 1. MERN Stack E-Commerce Platform
 
-Modern fashion eCommerce website inspired by H&M.
+A modern fashion eCommerce platform inspired by international fashion stores.
 
-**Features**
-- Product filtering, search, sorting, and pagination
+**Key Features**
+- Product filtering, searching, sorting, and pagination
 - Shopping cart and wishlist
 - Checkout and order management
 - Admin dashboard
 - Product variants and inventory management
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS.
 
----
+### 🛍️ 2. ASP.NET Core E-Commerce Platform
 
-## ASP.NET Core E-Commerce Website
+A full-stack eCommerce application built with ASP.NET Core.
 
-Full eCommerce platform built using ASP.NET Core MVC.
-
-**Features**
-- Product catalog and categories
+**Key Features**
+- Product catalog and category management
 - Shopping cart and checkout
 - Order management
 - Admin dashboard
 - Product CRUD operations
+- Backend API integration
 
-**Tech:** C#, ASP.NET Core MVC, Entity Framework Core, SQLite
+**Technologies:** C#, ASP.NET Core, Entity Framework Core, SQL.
 
----
+### ⚙️ 3. Laravel Admin Dashboard
 
-## Laravel Admin Dashboard
+An administrative platform for managing products, categories, users, and orders.
 
-Complete admin dashboard with role-based management.
-
-**Features**
+**Key Features**
 - Authentication and authorization
-- Role-based access control
+- Role-Based Access Control (RBAC)
 - Product and category management
 - Order management
 - Image uploads and validation
 
-**Tech:** Laravel, PHP, MySQL, Blade
+**Technologies:** PHP, Laravel, MySQL, Blade.
 
----
+### 🤖 4. AI-Powered Applications
 
-## 🤖 AI-Powered Applications
-
-Building intelligent applications using Python and modern AI technologies.
+Developing intelligent software solutions using Python and modern AI technologies.
 
 **Areas of Development**
 - AI CV Analyzer and Resume Matching
 - AI Chatbots and Virtual Assistants
 - LLM-Powered Applications
-- AI Football Intelligence & Analytics
-- Intelligent Data Analysis and Automation
-- OpenAI API Integration
+- Football Intelligence & Analytics (FIDS)
+- Intelligent Data Analysis
+- AI Integration and Automation
 
-**Tech:** Python, FastAPI, Flask, OpenAI API, REST APIs
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diaamohamed26&show_icons=true&theme=tokyonight)
+**Technologies:** Python, FastAPI, Flask, OpenAI API, REST APIs.
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Statistics
 
-📧 Email: diaamazize98@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/diaa-mohamed-a50460125  
-💻 GitHub: https://github.com/diaamohamed26
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diaamohamed26&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diaamohamed26&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-⭐ If you like my projects, feel free to star them!
+## 🌐 Let's Connect
 
-**Building the future with Full-Stack Development & AI.** 🚀
+- 🌐 **Portfolio:** https://diaamohamed26.github.io/diaa-portfolio_react/
+- 💼 **LinkedIn:** https://linkedin.com/in/diaa-mohamed-a50460125
+- 💻 **GitHub:** https://github.com/diaamohamed26
+- 📧 **Email:** diaamazize98@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories, check out my projects, and connect with me!
+
+### 🚀 Building scalable software. Integrating intelligent AI. Turning ideas into reality.
